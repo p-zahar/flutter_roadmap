@@ -29,7 +29,7 @@
 [Leetcode](https://leetcode.com/problemset/all/) - сайт с алгоритмическими задачами  
 [NeetCode](https://www.youtube.com/@NeetCode) - сайт с алгоритмическими задачами 
 
-## 3. Основы Dart & Flutter
+## 3. Основы Dart и Flutter
 [Установка Flutter](https://metanit.com/dart/flutter/1.1.php)  
 [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter/videos?view=0&sort=da&flow=grid)  
 [Flutter хэндбук от Яндекс](https://education.yandex.ru/handbook/flutter)  
