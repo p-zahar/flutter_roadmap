@@ -29,7 +29,7 @@
 [Leetcode](https://leetcode.com/problemset/all/) - сайт с алгоритмическими задачами  
 [NeetCode](https://www.youtube.com/@NeetCode) - сайт с алгоритмическими задачами 
 
-## 3. Основы dart & flutter
+## 3. Основы Dart & Flutter
 [Установка Flutter](https://metanit.com/dart/flutter/1.1.php)  
 [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter/videos?view=0&sort=da&flow=grid)  
 [Flutter хэндбук от Яндекс](https://education.yandex.ru/handbook/flutter)  
@@ -46,7 +46,7 @@
 [Iterable , Stream и sync*/async* генераторы](https://www.youtube.com/watch?v=SZGG7uTBXJ4)   
 [Не пиши велосипед, лучше возьми пакет](https://github.com/p0dyakov/flutter_best_packages/blob/main/README.md)
 
-## 4. Архитектура приложений на flutter
+## 4. Архитектура приложений на Flutter
 [Примеры приложений](https://github.com/stars/p0dyakov/lists/flutter-examples)   
 [Принципы SOLID](https://habr.com/ru/company/jugru/blog/446562/)   
 [Архитектура Flutter приложения](https://www.youtube.com/watch?v=2umUZX4bAt0)  
@@ -55,7 +55,7 @@
 [Refactoring Guru](https://refactoring.guru/ru/) - сайт с описанием различных паттернов проектирования  
 [Курс: Паттерны и практики написания кода](https://youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP)  
 
-## 5. Flutter и dart на более глубоком уровне
+## 5. Flutter и Dart на более глубоком уровне
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
 [Как работает Flutter](https://habr.com/ru/post/476018/)  
 [Flutter каналы платформы](https://habr.com/ru/post/666272/)  
